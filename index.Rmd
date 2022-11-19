@@ -1,0 +1,19 @@
+--- 
+title: "청소년금융교육 자료"
+author: "이기성"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# 소개
+
+2017년 부터 _김포청소년재단_ 에서 수업을 하면서 준비햇던 자료와 **느낀점**을 글로 정리했습니다.
+
+2022년 에는 **고양시 중고등학교 직업강사**로 역 임되어 관내에서 교육을 하며 좀더 경험을 쌓았습니다.
